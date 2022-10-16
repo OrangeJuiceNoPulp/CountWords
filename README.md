@@ -1,4 +1,4 @@
-This program counts the number of times that words occur in a specified .txt file.
+This program counts the number of times that words occur in a specified .txt file where each word is on a new line.
 
 The results are written into a specified .txt file, or "output.txt" by default.
 
